@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Esther a Frontend Developer passionate about making the web accessible with a seamless user-interface, building and supporting tech communities.
 
 ## 🙋‍♂️
-I love sharing my knowledge on the things I have learned. I'm a Women Techmakers Ambassador and a Co-organizer of Google Developers Group. When I'm not coding, you can find me learning something on youtube or listening to music.
+I love sharing my knowledge on the things I have learned. Former Women Techmakers Ambassador and a Co-organizer of Google Developers Group. When I'm not coding, you can find me learning something on youtube or listening to music.
 
 
 - 😄 My Pronouns: She/Her   
